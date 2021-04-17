@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">les6.homework</string>
+    <string name="w_e_l_c_o_m_e">W E L C O M E</string>
+    <string name="i_c_e_l_a_n_d">- I C E L A N D -</string>
+    <string name="we_re_glad_to_see_you">we\'re glad to see you</string>
+    <string name="sigh_in_or_register_up">sigh in or register up</string>
+    <string name="we_are_glad_to_see_you">we are glad to see you</string>
+    <string name="m_a_g_n_o_l_i_a">- M A G N O L I A-</string>
+    <string name="sign_in_or_register_up">sign in or register up</string>
+    <string name="forget_password">forget password?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">...sign up</string>
+    <string name="sign_in">sign in</string>
+</resources>
